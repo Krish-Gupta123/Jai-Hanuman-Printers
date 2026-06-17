@@ -32,7 +32,7 @@ function Navbar() {
         >
             <div className="container navbar-inner">
                 <a href="#home" className="brand-logo">
-                    <span className="brand-mark">JHP</span>
+                    <img src="/images/logo.jpeg" alt="Jai Hanuman Printers Logo" className="brand-mark-logo" />
                     <div>
                         <p>Jai Hanuman Printers</p>
                         <span>Printing Excellence Since 1997</span>

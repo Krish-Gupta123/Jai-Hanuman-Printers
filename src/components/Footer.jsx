@@ -37,7 +37,7 @@ function Footer() {
                 <p>© 2026 Jai Hanuman Printers. Printing Excellence Since 1997.</p>
                 <p className="footer-credit">
                     Designed and developed by{' '}
-                    <a href="https://www.linkedin.com/in/krishgupta111/" target="_blank" rel="noreferrer">
+                    <a href="https://wa.me/918080473728" target="_blank" rel="noreferrer">
                         Krish Gupta
                     </a>
                 </p>

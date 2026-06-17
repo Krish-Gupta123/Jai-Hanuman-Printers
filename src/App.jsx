@@ -3,7 +3,7 @@ import Hero from './components/Hero.jsx';
 import About from './components/About.jsx';
 import Services from './components/Services.jsx';
 import WhyChooseUs from './components/WhyChooseUs.jsx';
-import Gallery from './components/Gallery.jsx';
+// import Gallery from './components/Gallery.jsx';
 import Testimonials from './components/Testimonials.jsx';
 import Payment from './components/Payment.jsx';
 import Contact from './components/Contact.jsx';
@@ -19,7 +19,7 @@ function App() {
                 <About />
                 <Services />
                 <WhyChooseUs />
-                <Gallery />
+                {/* <Gallery /> */}
                 <Testimonials />
                 <Payment />
                 <Contact />
