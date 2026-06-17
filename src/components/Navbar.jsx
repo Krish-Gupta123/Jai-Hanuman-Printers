@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { FiMenu, FiX } from 'react-icons/fi';
+import logo from '../../images/logo.jpeg';
 
 const navItems = [
     { label: 'Home', href: '#home' },
@@ -31,7 +32,7 @@ function Navbar() {
             className={`navbar ${isScrolled ? 'navbar-scrolled' : ''}`}
         >
             <div className="container navbar-inner">
-                <a href="#home" className="brand-logo">
+                <a href="#hom{logo}-logo">
                     <img src="/images/logo.jpeg" alt="Jai Hanuman Printers Logo" className="brand-mark-logo" />
                     <div>
                         <p>Jai Hanuman Printers</p>
